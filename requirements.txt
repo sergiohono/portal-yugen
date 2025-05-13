@@ -1,0 +1,12 @@
+streamlit
+sqlalchemy
+psycopg2-binary
+pandas
+streamlit-authenticator
+altair
+python-docx
+openpyxl
+xlsxwriter
+python-dateutil
+plotly
+bcrypt
